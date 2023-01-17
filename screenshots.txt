@@ -1,0 +1,3 @@
+image.png
+web page didnt open-time out but everything looks good on my terminal. All curl cmds working well
+image.png
